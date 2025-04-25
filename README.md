@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PulseFit Ecommerce Website
 
 [![Screenshot of Homepage](https://github.com/keanan557/pulsefit-assets/blob/6dafcea32d51891e331fefa73f9aeb455ce196e2/pulsefit-home.png)](https://pulsefit-live.vercel.app/)
@@ -101,3 +102,6 @@ This e-commerce website implements the following key features:
 * github.com/Lostee23
 * github.com/psycho2k3
 * github.com/Anele-Mbombiya
+=======
+# PulseFit
+>>>>>>> d7a511ef48a7e39f9290b9d7cc6f1beaa74e1082
